@@ -1,0 +1,11 @@
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\bin\Debug\net5.0\ShopCleanArchitecture.Domain.deps.json
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\bin\Debug\net5.0\ShopCleanArchitecture.Domain.dll
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\bin\Debug\net5.0\ShopCleanArchitecture.Domain.pdb
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ShopCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ShopCleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ShopCleanArchitecture.Domain.AssemblyInfo.cs
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ShopCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ShopCleanArchitecture.Domain.dll
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\refint\ShopCleanArchitecture.Domain.dll
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ShopCleanArchitecture.Domain.pdb
+D:\RelintonProjetos\ShopCleanArchitecture\ShopCleanArchitecture.Domain\obj\Debug\net5.0\ref\ShopCleanArchitecture.Domain.dll

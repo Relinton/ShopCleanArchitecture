@@ -1,0 +1,26 @@
+﻿@model ShopCleanArchitecture.Application.ViewModels.ProdutoViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table id="produto" class="table table-bordered table-hover">
+    <thead>
+        <tr class="">
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model.Produtos)
+        {
+            <tr style="height: 60px;">
+                <td>@produto.Nome</td>
+                <td>@produto.Preco</td>
+                <td>@produto.Quantidade</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
